@@ -1,0 +1,24 @@
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.exe
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.deps.json
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.runtimeconfig.json
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.runtimeconfig.dev.json
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.dll
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.pdb
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\obj\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.csproj.AssemblyReference.cache
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\obj\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\obj\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.AssemblyInfoInputs.cache
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\obj\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.AssemblyInfo.cs
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\obj\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.csproj.CoreCompileInputs.cache
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\obj\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.csproj.CopyComplete
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\obj\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.dll
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\obj\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.pdb
+C:\Users\Giulia\Desktop\Projects\C#\ZER\Zoombinis Environmental Restoration Current\obj\Debug\netcoreapp3.1\Zoombinis Environmental Restoration Current.genruntimeconfig.cache
